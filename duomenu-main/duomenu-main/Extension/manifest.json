@@ -3,7 +3,7 @@
   "name": "DuoMenu - made by jadjac!",
   "version": "1.0.0",
   "incognito": "split",
-  "description": "Complete courses and lessons and earn lots of XP with the DuoMenu.",
+  "description": "just click the thing...and yeah.",
   "background": {
     "scripts": ["index.js"]
   },
