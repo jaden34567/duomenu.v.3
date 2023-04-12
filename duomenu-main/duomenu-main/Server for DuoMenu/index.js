@@ -30,9 +30,9 @@ app.all('*',async (req,res) => {
   });
   var lesson = await f.json();
   lesson.challenges = [{
-    choices:['🖤 Created by Gabb#9561'],
+    choices:['🖤 Created by jadjac'],
     correctIndices:[0],
-    prompt:'DuoMenu Enabled! Select the alternative below and confirm to earn XP!',
+    prompt:'DuoMenu Enabled! Select the bitch below and confirm to earn XP!',
     sourceLanguage:lesson.challenges[0].sourceLanguage,
     targetLanguage:lesson.challenges[0].targetLanguage,
     type:'judge',
@@ -40,13 +40,13 @@ app.all('*',async (req,res) => {
       "metadata": {
         "sentences": [
           {
-            "sentence": "🖤 Created by Gabb#9561",
+            "sentence": "🖤 Created by jadjac",
             "correct": true
           }
         ],
         "source_language": lesson.challenges[0].sourceLanguage,
         "target_language": lesson.challenges[0].targetLanguage,
-        "text": "Hacked by DuoMenu!",
+        "text": "Hacked by DuoMenu bitches!",
         "highlight": [],
         "type": "judge",
         "specific_type": "target_learning_judge",
@@ -55,7 +55,7 @@ app.all('*',async (req,res) => {
         "from_language": lesson.challenges[0].sourceLanguage,
         "options": [
           {
-            "sentence": "🖤 Created by Gabb#9561",
+            "sentence": "🖤 Created by jadjac",
             "correct": true
           }
         ]
