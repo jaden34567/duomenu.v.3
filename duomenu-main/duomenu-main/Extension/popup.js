@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     })
 
     document.querySelector('.git').addEventListener('click',() => {
-      window.open('https://github.com/GabrielMota1056/duomenu/blob/main/README.md', '_blank').focus();
+      window.open('https://www.youtube.com/channel/UC2DShN0_8KEpXxdPEICXRaw').focus();
     })
     document.querySelector(".button").addEventListener("click", () => {
         chrome.storage.sync.set({
